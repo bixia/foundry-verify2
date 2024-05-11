@@ -3271,8 +3271,6 @@ dependencies = [
 [[package]]
 name = "foundry-block-explorers"
 version = "0.2.7"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "351c6be2db0090c6c5ae214a7e768a1a61d7d46ff70ab9e7ee45c8f34e6c3c60"
 dependencies = [
  "alloy-chains",
  "alloy-json-abi",
